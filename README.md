@@ -10,7 +10,7 @@
 
 
 - Currently preparing for the national entrance exam (ENEM) to pursue a degree in Information Systems at the Federal Institute of São Paulo (IFSP).
-- How to reach me: <a href='mailto:gabdevcamargo@gmail.com' target='_blank'>gabdevcamargo@gmail.comm</a>
+- How to reach me: <a href='mailto:kyupi.art@gmail.com' target='_blank'>kyupi.art@gmail.com</a>
 
 ---
 
